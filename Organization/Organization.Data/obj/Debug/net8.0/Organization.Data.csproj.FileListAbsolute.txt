@@ -1,0 +1,17 @@
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Data\bin\Debug\net8.0\Organization.Data.deps.json
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Data\bin\Debug\net8.0\Organization.Data.runtimeconfig.json
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Data\bin\Debug\net8.0\Organization.Data.dll
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Data\bin\Debug\net8.0\Organization.Data.pdb
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Data\bin\Debug\net8.0\Organization.Core.dll
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Data\bin\Debug\net8.0\Organization.Core.pdb
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Data\obj\Debug\net8.0\Organization.Data.csproj.AssemblyReference.cache
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Data\obj\Debug\net8.0\Organization.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Data\obj\Debug\net8.0\Organization.Data.AssemblyInfoInputs.cache
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Data\obj\Debug\net8.0\Organization.Data.AssemblyInfo.cs
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Data\obj\Debug\net8.0\Organization.Data.csproj.CoreCompileInputs.cache
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Data\obj\Debug\net8.0\Organization.Data.csproj.CopyComplete
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Data\obj\Debug\net8.0\Organization.Data.dll
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Data\obj\Debug\net8.0\refint\Organization.Data.dll
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Data\obj\Debug\net8.0\Organization.Data.pdb
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Data\obj\Debug\net8.0\Organization.Data.genruntimeconfig.cache
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Data\obj\Debug\net8.0\ref\Organization.Data.dll

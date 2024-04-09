@@ -1,0 +1,15 @@
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Service\bin\Debug\net8.0\Organization.Service.deps.json
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Service\bin\Debug\net8.0\Organization.Service.dll
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Service\bin\Debug\net8.0\Organization.Service.pdb
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Service\bin\Debug\net8.0\Organization.Core.dll
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Service\bin\Debug\net8.0\Organization.Core.pdb
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Service\obj\Debug\net8.0\Organization.Service.csproj.AssemblyReference.cache
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Service\obj\Debug\net8.0\Organization.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Service\obj\Debug\net8.0\Organization.Service.AssemblyInfoInputs.cache
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Service\obj\Debug\net8.0\Organization.Service.AssemblyInfo.cs
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Service\obj\Debug\net8.0\Organization.Service.csproj.CoreCompileInputs.cache
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Service\obj\Debug\net8.0\Organization.Service.csproj.CopyComplete
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Service\obj\Debug\net8.0\Organization.Service.dll
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Service\obj\Debug\net8.0\refint\Organization.Service.dll
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Service\obj\Debug\net8.0\Organization.Service.pdb
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Service\obj\Debug\net8.0\ref\Organization.Service.dll

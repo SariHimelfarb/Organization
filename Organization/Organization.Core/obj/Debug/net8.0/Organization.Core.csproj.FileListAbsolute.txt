@@ -1,0 +1,12 @@
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Core\bin\Debug\net8.0\Organization.Core.deps.json
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Core\bin\Debug\net8.0\Organization.Core.dll
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Core\bin\Debug\net8.0\Organization.Core.pdb
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Core\obj\Debug\net8.0\Organization.Core.csproj.AssemblyReference.cache
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Core\obj\Debug\net8.0\Organization.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Core\obj\Debug\net8.0\Organization.Core.AssemblyInfoInputs.cache
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Core\obj\Debug\net8.0\Organization.Core.AssemblyInfo.cs
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Core\obj\Debug\net8.0\Organization.Core.csproj.CoreCompileInputs.cache
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Core\obj\Debug\net8.0\Organization.Core.dll
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Core\obj\Debug\net8.0\refint\Organization.Core.dll
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Core\obj\Debug\net8.0\Organization.Core.pdb
+C:\Users\שרי הימלפרב\Desktop\פרקטיקום\Organization\Organization.Core\obj\Debug\net8.0\ref\Organization.Core.dll
