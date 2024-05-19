@@ -23,7 +23,6 @@ function Login() {
 
     } catch (error) {
       console.error('Login failed:', error.message);
-      // Handle login failure here, e.g., show error message to user
     }
   };
 
@@ -99,7 +98,7 @@ function Login() {
               <Grid container>
                 <Grid item xs>
                   <Link href="#" variant="body2">
-                    Forgot password?
+                    Forgot password??
                   </Link>
                 </Grid>
                 <Grid item>
